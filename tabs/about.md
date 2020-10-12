@@ -9,3 +9,7 @@ title: About
 ---
 
 > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+
+Hi, My name is Seungju Lee.
+I am an undergraduate at Seoul National University department of Industrial Engineering.
+I want to make sure that this blog is kind of like a test project.
