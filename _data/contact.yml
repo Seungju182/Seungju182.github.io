@@ -29,3 +29,6 @@
 # -
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+-
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/seungju182/'
