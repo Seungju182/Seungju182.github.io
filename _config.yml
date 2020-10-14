@@ -13,16 +13,14 @@ title: "Seungju's Blog"                          # the main title
 tagline: Work Hard, Dream Big!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Github blog of Seungju Lee
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://Seungju182.github.io'
 
 author: Seungju Lee                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/logo.png   # support internet resources
 
 github:
   username: Seungju182             # change to your github username
