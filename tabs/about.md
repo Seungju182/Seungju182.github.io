@@ -8,8 +8,11 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Hi, My name is **Seungju Lee**.
 
-Hi, My name is Seungju Lee.
 I am an undergraduate at Seoul National University department of Industrial Engineering.
-I want to make sure that this blog is kind of like a test project.
+
+
+지금은 아직 테스트 단계의 블로그지만 조만간 엥간한 포스팅을 통해 그래도 어느 정도는 커버칠 수 있는 사이트를 만들어 볼 예정입니다.
+
+> 이게 다 **먹고 살라고** 하는 짓이겠죠
